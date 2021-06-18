@@ -18,6 +18,7 @@ Additionally, you should run the following command to start the json server:
 
 ### `npx json-server --watch data/db.json --port 8000`
 
+The json server will allow you to access the blog entry data and display it on the webapp.
 
 ### `npm test`
 
